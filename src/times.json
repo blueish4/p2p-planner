@@ -1,0 +1,335 @@
+{
+    "background": "",
+    "blocks": [
+        {
+            "name": "Irenethedoll",
+            "startTime": "2021-05-31T17:00:00.000Z",
+            "endTime": "2021-05-31T19:00:00.000Z",
+            "background": "#be5863"
+        },
+        {
+            "name": "Zoomizoomi97",
+            "startTime": "2021-05-31T19:00:00.000Z",
+            "endTime": "2021-05-31T23:00:00.000Z",
+            "background": "#ce8c6d"
+        },
+        {
+            "name": "xychelsea87",
+            "startTime": "2021-05-31T23:00:00.000Z",
+            "endTime": "2021-06-01T03:00:00.000Z",
+            "background": "#d0bd77"
+        },
+        {
+            "name": "illumattea",
+            "startTime": "2021-06-01T03:00:00.000Z",
+            "endTime": "2021-06-01T05:00:00.000Z",
+            "background": "#88b572"
+        },
+        {
+            "name": "Dannyoftheinternet",
+            "startTime": "2021-06-01T05:00:00.000Z",
+            "endTime": "2021-06-01T08:00:00.000Z",
+            "background": "#a3d5dd"
+        },
+        {
+            "name": "CassieKillsit",
+            "startTime": "2021-06-01T08:00:00.000Z",
+            "endTime": "2021-06-01T11:00:00.000Z",
+            "background": "#866ee6"
+        },
+        {
+            "name": "Teebs",
+            "startTime": "2021-06-01T11:00:00.000Z",
+            "endTime": "2021-06-01T13:00:00.000Z",
+            "background": "#ddaec8"
+        },
+        {
+            "name": "SneakiBrina",
+            "startTime": "2021-06-01T13:00:00.000Z",
+            "endTime": "2021-06-01T15:00:00.000Z",
+            "background": "#c65e65"
+        },
+        {
+            "name": "Eviltoaster",
+            "startTime": "2021-06-01T15:00:00.000Z",
+            "endTime": "2021-06-01T17:00:00.000Z",
+            "background": "#ce8d6d"
+        },
+        {
+            "name": "Carrarium",
+            "startTime": "2021-06-01T17:00:00.000Z",
+            "endTime": "2021-06-01T19:00:00.000Z",
+            "background": "#cdbc77"
+        },
+        {
+            "name": "Miabyte",
+            "startTime": "2021-06-01T19:00:00.000Z",
+            "endTime": "2021-06-01T21:00:00.000Z",
+            "background": "#88b474"
+        },
+        {
+            "name": "Distraction88",
+            "startTime": "2021-06-01T21:00:00.000Z",
+            "endTime": "2021-06-01T23:00:00.000Z",
+            "background": "#a1d6de"
+        },
+        {
+            "name": "ctrlaltquin",
+            "startTime": "2021-06-01T23:00:00.000Z",
+            "endTime": "2021-06-02T03:00:00.000Z",
+            "background": "#8467e7"
+        },
+        {
+            "name": "LotusLovesLotus",
+            "startTime": "2021-06-02T03:00:00.000Z",
+            "endTime": "2021-06-02T05:00:00.000Z",
+            "background": "#dba8c7"
+        },
+        {
+            "name": "AlmondMilkbone",
+            "startTime": "2021-06-02T05:00:00.000Z",
+            "endTime": "2021-06-02T07:00:00.000Z",
+            "background": "#c45c67"
+        },
+        {
+            "name": "MonaPiper",
+            "startTime": "2021-06-02T07:00:00.000Z",
+            "endTime": "2021-06-02T10:00:00.000Z",
+            "background": "#d0956d"
+        },
+        {
+            "name": "Rat_emoji",
+            "startTime": "2021-06-02T10:00:00.000Z",
+            "endTime": "2021-06-02T13:00:00.000Z",
+            "background": "#d1c175"
+        },
+        {
+            "name": "ExtraCredits",
+            "startTime": "2021-06-02T13:00:00.000Z",
+            "endTime": "2021-06-02T17:00:00.000Z",
+            "background": "#88b771"
+        },
+        {
+            "name": "TiffanyWitcher",
+            "startTime": "2021-06-02T17:00:00.000Z",
+            "endTime": "2021-06-02T19:00:00.000Z",
+            "background": "#9fd3db"
+        },
+        {
+            "name": "Violet",
+            "startTime": "2021-06-02T19:00:00.000Z",
+            "endTime": "2021-06-02T22:00:00.000Z",
+            "background": "#d0956d"
+        },
+        {
+            "name": "Lucky_Bun",
+            "startTime": "2021-06-02T22:00:00.000Z",
+            "endTime": "2021-06-03T02:00:00.000Z",
+            "background": "#dba5c7"
+        },
+        {
+            "name": "DJ Party Block",
+            "startTime": "2021-06-03T02:00:00.000Z",
+            "endTime": "2021-06-03T07:00:00.000Z",
+            "background": "#a3bcf1"
+        },
+        {
+            "name": "ArenEternal",
+            "startTime": "2021-06-03T07:00:00.000Z",
+            "endTime": "2021-06-03T11:00:00.000Z",
+            "background": "#c25f64"
+        },
+        {
+            "name": "tk_lakla",
+            "startTime": "2021-06-03T11:00:00.000Z",
+            "endTime": "2021-06-03T15:00:00.000Z",
+            "background": "#cf8e6e"
+        },
+        {
+            "name": "kagenaga_LN",
+            "startTime": "2021-06-03T15:00:00.000Z",
+            "endTime": "2021-06-03T17:00:00.000Z",
+            "background": "#cfbe78"
+        },
+        {
+            "name": "Irenethedoll",
+            "startTime": "2021-06-03T17:00:00.000Z",
+            "endTime": "2021-06-03T19:00:00.000Z",
+            "background": "#87b773"
+        },
+        {
+            "name": "Suspenders",
+            "startTime": "2021-06-03T19:00:00.000Z",
+            "endTime": "2021-06-03T21:00:00.000Z",
+            "background": "#9fd3dd"
+        },
+        {
+            "name": "Myranda",
+            "startTime": "2021-06-03T21:00:00.000Z",
+            "endTime": "2021-06-03T23:00:00.000Z",
+            "background": "#8365e6"
+        },
+        {
+            "name": "PatchDonal",
+            "startTime": "2021-06-03T23:00:00.000Z",
+            "endTime": "2021-06-04T01:00:00.000Z",
+            "background": "#daa3c8"
+        },
+        {
+            "name": "BunnyBennett",
+            "startTime": "2021-06-04T01:00:00.000Z",
+            "endTime": "2021-06-04T05:00:00.000Z",
+            "background": "#be5865"
+        },
+        {
+            "name": "meomingu",
+            "startTime": "2021-06-04T05:00:00.000Z",
+            "endTime": "2021-06-04T07:00:00.000Z",
+            "background": "#ce8970"
+        },
+        {
+            "name": "Saljpg",
+            "startTime": "2021-06-04T07:00:00.000Z",
+            "endTime": "2021-06-04T09:00:00.000Z",
+            "background": "#d2c576"
+        },
+        {
+            "name": "Jead94",
+            "startTime": "2021-06-04T09:00:00.000Z",
+            "endTime": "2021-06-04T11:00:00.000Z",
+            "background": "#8ab971"
+        },
+        {
+            "name": "AbigailBeck",
+            "startTime": "2021-06-04T11:00:00.000Z",
+            "endTime": "2021-06-04T14:00:00.000Z",
+            "background": "#a2d7de"
+        },
+        {
+            "name": "GlitchCraft",
+            "startTime": "2021-06-04T14:00:00.000Z",
+            "endTime": "2021-06-04T16:00:00.000Z",
+            "background": "#8268e5"
+        },
+        {
+            "name": "Acegikmo",
+            "startTime": "2021-06-04T16:00:00.000Z",
+            "endTime": "2021-06-04T18:00:00.000Z",
+            "background": "#d8a5c6"
+        },
+        {
+            "name": "MxEmily",
+            "startTime": "2021-06-04T18:00:00.000Z",
+            "endTime": "2021-06-04T20:00:00.000Z",
+            "background": "#bf5966"
+        },
+        {
+            "name": "Fiorabunny",
+            "startTime": "2021-06-04T20:00:00.000Z",
+            "endTime": "2021-06-05T00:00:00.000Z",
+            "background": "#d18f6d"
+        },
+        {
+            "name": "AbbyBagel",
+            "startTime": "2021-06-05T00:00:00.000Z",
+            "endTime": "2021-06-05T04:00:00.000Z",
+            "background": "#d0bd78"
+        },
+        {
+            "name": "JordanRasko",
+            "startTime": "2021-06-05T04:00:00.000Z",
+            "endTime": "2021-06-05T07:00:00.000Z",
+            "background": "#88b572"
+        },
+        {
+            "name": "miaowow",
+            "startTime": "2021-06-05T07:00:00.000Z",
+            "endTime": "2021-06-05T10:00:00.000Z",
+            "background": "#a3ddde"
+        },
+        {
+            "name": "AnnieKrevice",
+            "startTime": "2021-06-05T10:00:00.000Z",
+            "endTime": "2021-06-05T13:00:00.000Z",
+            "background": "#856be6"
+        },
+        {
+            "name": "Amethyst_Rocks",
+            "startTime": "2021-06-05T13:00:00.000Z",
+            "endTime": "2021-06-05T17:00:00.000Z",
+            "background": "#d8a5c4"
+        },
+        {
+            "name": "Acegikmo",
+            "startTime": "2021-06-05T17:00:00.000Z",
+            "endTime": "2021-06-05T21:00:00.000Z",
+            "background": "#bf5965"
+        },
+        {
+            "name": "EeveeA",
+            "startTime": "2021-06-05T21:00:00.000Z",
+            "endTime": "2021-06-06T01:00:00.000Z",
+            "background": "#c9856b"
+        },
+        {
+            "name": "SailorMinh",
+            "startTime": "2021-06-06T01:00:00.000Z",
+            "endTime": "2021-06-06T03:00:00.000Z",
+            "background": "#cfbc78"
+        },
+        {
+            "name": "queerAPOLLO",
+            "startTime": "2021-06-06T03:00:00.000Z",
+            "endTime": "2021-06-06T07:00:00.000Z",
+            "background": "#8fba72"
+        },
+        {
+            "name": "Mynttiefresh",
+            "startTime": "2021-06-06T07:00:00.000Z",
+            "endTime": "2021-06-06T11:00:00.000Z",
+            "background": "#a2dbdd"
+        },
+        {
+            "name": "FallFlora",
+            "startTime": "2021-06-06T11:00:00.000Z",
+            "endTime": "2021-06-06T14:00:00.000Z",
+            "background": "#826be5"
+        },
+        {
+            "name": "A_typicalqueer",
+            "startTime": "2021-06-06T14:00:00.000Z",
+            "endTime": "2021-06-06T16:00:00.000Z",
+            "background": "#d9a8c8"
+        },
+        {
+            "name": "OhKay",
+            "startTime": "2021-06-06T16:00:00.000Z",
+            "endTime": "2021-06-06T18:00:00.000Z",
+            "background": "#c16566"
+        },
+        {
+            "name": "PikaChulita",
+            "startTime": "2021-06-06T18:00:00.000Z",
+            "endTime": "2021-06-06T21:00:00.000Z",
+            "background": "#cc8b6b"
+        },
+        {
+            "name": "ArenEternal",
+            "startTime": "2021-06-06T21:00:00.000Z",
+            "endTime": "2021-06-07T00:00:00.000Z",
+            "background": "#cebb77"
+        },
+        {
+            "name": "Irenethedoll",
+            "startTime": "2021-06-07T00:00:00.000Z",
+            "endTime": "2021-06-07T02:00:00.000Z",
+            "background": "#88b572"
+        },
+        {
+            "name": "LuciaEverblack",
+            "startTime": "2021-06-07T02:00:00.000Z",
+            "endTime": "2021-06-07T04:00:00.000Z",
+            "background": "#a1d9dc"
+        }
+    ]
+}
