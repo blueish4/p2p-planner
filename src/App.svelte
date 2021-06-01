@@ -29,7 +29,7 @@
 	}
 	.calendar {
 		display: grid;
-		grid-template: auto 1fr repeat(22, 1fr) auto / auto;
+		grid-template: auto repeat(23, 32px) auto / auto;
 		column-gap: 10px;
 		row-gap: 2px;
 		grid-auto-flow: column;
