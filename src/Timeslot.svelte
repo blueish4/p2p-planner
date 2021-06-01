@@ -34,7 +34,7 @@
 </div>
 {#if dayOverlap}
 	<div class="header">
-		{endTime.toLocaleDateString('en-GB', { weekday: 'long' })}
+		{adjustedEndTime.toLocaleDateString('en-GB', { weekday: 'long' })}
 	</div>
 	{#if overspill > 0}
 	<div style="background-color: {background};grid-row: 2 / span {overspill};">
