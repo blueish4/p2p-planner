@@ -2,7 +2,7 @@
 	import Timeslot from './Timeslot.svelte';
 	import times from './times.json';
 	const time = times.blocks as any[];
-	let tz = 0;
+	let tz = Math.ceil(-(new Date().getTimezoneOffset()/60));
 </script>
 
 <main>
@@ -28,12 +28,19 @@
 		}
 	}
 	.calendar {
-		display: grid;
-		grid-template: auto repeat(23, 32px) auto / auto;
-		column-gap: 10px;
-		row-gap: 2px;
-		grid-auto-flow: column;
+		width: 100%;
+		display: block;
 	}
+	@media (min-width: 640px) {
+		.calendar {
+			display: grid;
+			grid-template: auto repeat(23, 32px) auto / auto;
+			column-gap: 10px;
+			row-gap: 2px;
+			grid-auto-flow: column;
+		}
+	}
+
 	.header {
 		text-align: center;
 		height: 0.5fr;
