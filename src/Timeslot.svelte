@@ -29,8 +29,8 @@
 
 
 <div style="background-color: {background};grid-row: {index>0 ? `${index} /` : ''} span {duration};">
-	<p>{name}</p>
-	<p>{adjustedStartTime.getHours()}-{adjustedEndTime.getHours()}</p>
+	<p>{name}
+	<br>{adjustedStartTime.getHours()}-{adjustedEndTime.getHours()}</p>
 </div>
 {#if dayOverlap}
 	<div class="header">
@@ -43,6 +43,9 @@
 {/if}
 
 <style>
+	div {
+		text-align: center;
+	}
 	.header {
 		min-height: 0.5fr;
 	}

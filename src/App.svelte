@@ -6,8 +6,10 @@
 </script>
 
 <main>
-	<input type="range" min="-12" max="12" bind:value="{tz}"/>
-	<p>UTC{tz>0?'+':''}{tz}</p>
+	<div class="tzSelector">
+		<input type="range" min="-12" max="12" bind:value="{tz}"/>
+		<p>UTC{tz>0?'+':''}{tz}</p>
+	</div>
 	<div class="calendar">
 		<div class="header">
 			{(new Date(time[0].startTime)).toLocaleDateString('en-GB', { weekday: 'long' })}
@@ -27,12 +29,16 @@
 	}
 	.calendar {
 		display: grid;
-		grid-template: repeat(25, 1fr) / 1fr;
+		grid-template: auto repeat(23, 1fr) auto / auto;
 		column-gap: 10px;
 		row-gap: 2px;
 		grid-auto-flow: column;
 	}
 	.header {
+		text-align: center;
 		height: 0.5fr;
+	}
+	.tzSelector {
+		display: inline-flex;
 	}
 </style>
