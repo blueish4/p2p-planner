@@ -49,5 +49,6 @@
 	}
 	.header {
 		min-height: 0.5fr;
+		color: #b1c9ce;
 	}
 </style>

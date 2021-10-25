@@ -29,6 +29,7 @@
 	@media (min-width: 640px) {
 		main {
 			max-width: none;
+			height:100vh
 		}
 	}
 	.calendar {
@@ -48,9 +49,11 @@
 	.header {
 		text-align: center;
 		height: 0.5fr;
+		color: #b1c9ce;
 	}
 	.tzSelector {
 		display: inline-flex;
+		color: #b1c9ce;
 	}
 	#copyright {
 		margin-bottom: 0;
