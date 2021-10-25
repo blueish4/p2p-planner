@@ -18,10 +18,14 @@
 			<Timeslot name={block.name} tzOffset={tz} isFirst={i===0} startTime={new Date(block.startTime)} endTime={new Date(block.endTime)} background={block.background} />
 		{/each}
 	</div>
-	<p>Copyleft AGPLv3, <a href="https://github.com/blueish4/p2p-planner">source available</a></p>
+	<p id="copyright">Copyleft AGPLv3, <a href="https://github.com/blueish4/p2p-planner">source available</a></p>
 </main>
 
 <style>
+	main {
+
+		background: linear-gradient(#905aae, #fe7be1);
+	}
 	@media (min-width: 640px) {
 		main {
 			max-width: none;
@@ -47,5 +51,8 @@
 	}
 	.tzSelector {
 		display: inline-flex;
+	}
+	#copyright {
+		margin-bottom: 0;
 	}
 </style>

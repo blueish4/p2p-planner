@@ -17,20 +17,21 @@
 	$: {
 		adjustedStartTime = new Date((startTime.valueOf() + (tzOffset-1)*toHour));
 		adjustedEndTime = new Date((endTime.valueOf() + (tzOffset-1)*toHour));
-		index = isFirst ? adjustedStartTime.getHours()+2 : -1;
+		index = isFirst ? adjustedStartTime.getUTCHours()+2 : -1;
 		duration = (endTime.valueOf() - startTime.valueOf()) / toHour;
-		dayOverlap = adjustedEndTime.getDay() !== adjustedStartTime.getDay();
+		dayOverlap = adjustedEndTime.getUTCDay() !== adjustedStartTime.getUTCDay();
 		if (dayOverlap) {
-			overspill = adjustedEndTime.getHours();
-			duration = 24 - adjustedStartTime.getHours();
+			console.log(adjustedEndTime)
+			overspill = adjustedEndTime.getUTCHours();
+			duration = 24 - adjustedStartTime.getUTCHours();
 		}
 	}
 </script>
 
 
 <div style="background-color: {background};grid-row: {index>0 ? `${index} /` : ''} span {duration};">
-	<p>{name}
-	<br>{adjustedStartTime.getHours()}-{adjustedEndTime.getHours()}</p>
+	<p>{@html name}
+	<br>{adjustedStartTime.getUTCHours()}-{adjustedEndTime.getUTCHours()}</p>
 </div>
 {#if dayOverlap}
 	<div class="header">
