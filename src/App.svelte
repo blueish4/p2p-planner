@@ -29,7 +29,7 @@
 	@media (min-width: 640px) {
 		main {
 			max-width: none;
-			height:100vh
+			min-height: 100vh;
 		}
 	}
 	.calendar {
